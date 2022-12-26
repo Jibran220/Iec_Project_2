@@ -72,7 +72,7 @@ const Container = styled.div`
   background-color: #2a2927;
   
   .container {
-    height: 85%;
+    height: 84%;
     width: 85%;
     border-radius:3rem;
     background-color: #00000076;
