@@ -72,8 +72,8 @@ const Container = styled.div`
   background-color: #2a2927;
   
   .container {
-    height: 95%;
-    width: 95%;
+    height: 85%;
+    width: 85%;
     border-radius:3rem;
     background-color: #00000076;
     display: grid;
